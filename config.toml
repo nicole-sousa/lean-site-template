@@ -24,7 +24,7 @@ DefaultContentLanguage = "en"
 
   [Languages.en.general]
   ## -- GENERAL SITE PARAMETERS -- ##
-  fullTitle = "Effective Altruism Site Title"
+  fullTitle = "USP Effective Altruism"
   strapline = "Helping you do good better"
 
   [Languages.en.groupinfo]
