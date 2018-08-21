@@ -5,6 +5,7 @@ draft: false
 type: "effective-altruism"
 ---
 
-Effective altruism is a philosophy and social movement that applies evidence and reason to determine the most effective ways to improve the world. Effective altruists aim to consider all causes and actions, and then act in the way that brings about the greatest positive impact. It is this broad evidence-based approach that distinguishes effective altruism from traditional altruism or charity. While a substantial proportion of effective altruists have focused on the nonprofit sector, the philosophy of effective altruism applies much more broadly, e.g., to prioritizing the scientific projects, companies, and policy initiatives which can be estimated to save and improve the most lives.
+Altruísmo Eficaz é um movimento filosófico e social que aplica evidência e razão para determinar os meios mais eficazes para resolver os problemas do mundo. Altruístas eficazes tem por objetivo considerar todas as causas e ações, e depois agem de acordo com o caminho que gere o maior impacto positivo.
+A larga abordagem baseada em evidência que distingue o altruísmo eficaz do altruísmo tradicional ou caridade. Enquanto uma grande proporção de altruístas eficazes tem focado no terceiro setor, temos que a filosofia do altruísmo eficaz pode ser aplicada de modo bem mais abrangente, por exemplo, para priorizar projetos científicos, companhias e políticas que estimadamente podem salvar e melhorar mais vidas.
+Estamos empolgados em fazer parte deste movimento e esperamos que você se junte a nós.
 
-We are excited to be a part of this movement and hope you’ll join us.
