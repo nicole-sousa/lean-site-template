@@ -1,1 +1,1 @@
-Some projects are thousands of times more effective than others. We apply logic and research to maximise our impact.
+Alguns projetos são muitas vezes mais eficazes que outros. Aplicamos lógica e pesquisa para maximizar nosso impacto.
