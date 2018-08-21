@@ -1,4 +1,4 @@
-#### More on EA
+#### Saiba mais sobre o movimento:
 
 * [Introdução ao Altruísmo Eficaz](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/)
 * [**Video:** O Por que e o Como do Altruísmo Eficaz](https://www.youtube.com/watch?v=Diuv3XZQXyc)
