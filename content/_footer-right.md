@@ -1,4 +1,4 @@
-#### Conteúdo relacionado
+#### Links úteis
 
 * [effectivealtruism.org](http://effectivealtruism.org)
 * [80000 Hours](https://80000hours.org/)
