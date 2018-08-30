@@ -18,20 +18,20 @@ DefaultContentLanguage = "pt"
 
   [Languages]
   [Languages.pt]
-  title = "Site Altruísmo Eficaz - USP"
+  title = "Altruísmo Eficaz - USP"
   weight = 1
   languageCode = "pt"
 
   [Languages.pt.general]
   ## -- GENERAL SITE PARAMETERS -- ##
   fullTitle = "Altruísmo Eficaz USP"
-  strapline = "Te ajudando a fazer o bem melhor"
+  strapline = "Buscando fazer o bem, melhor"
 
   [Languages.pt.groupinfo]
   ## -- EA GROUP INFO -- ##
   legalOrgName = "Altruímo Eficaz - USP"
   orgLocations = "Cidade Universitária - Butantã"
-  contactEmail = "nossoEmail@mail.com"
+  contactEmail = "altruismoeficazusp@gmail.com"
 
   [Languages.pt.navbar]
   ## -- NAVIGATION BAR HEADERS -- ##
@@ -42,8 +42,8 @@ DefaultContentLanguage = "pt"
   faq = "FAQ"
   effectiveAltruism = "Altruísmo Eficaz"
   aboutEA = "Sobre"
-  readingMaterial = "Material de Apoio"
-  keyTerms = "Palavras Chave"
+  readingMaterial = "Sugestões de Leitura"
+  keyTerms = "Conceitos"
   organizations = "Organizações"
   contact= "Contato"
 
@@ -55,7 +55,7 @@ DefaultContentLanguage = "pt"
   [Languages.pt.homepage]
    ## -- HOMEPAGE -- ##
   topBannerText = "Quem somos?"
-  leadText = "Somos o grupo de pessoas que deseja ajudá-lo a responder a questão: Como posso fazer o bem melhor?"
+  leadText = "Somos um grupo de pessoas que deseja te ajudar a responder a questão: como posso fazer o bem melhor?"
   firstSectionHeader = "Fazendo o bem melhor"
   secondSectionHeader = "Construindo uma comunidade"
   thirdSectionHeader = "Encontrando melhores meios de ajudar"
@@ -63,11 +63,11 @@ DefaultContentLanguage = "pt"
 
   [Languages.pt.contactform]
   ## -- CONTACT FORM -- ##
-  leadText = "Diga Oi!"
-  senderName = "Seu nome (necessário)"
-  senderEmail = "Seu email (necessário)"
+  leadText = "Deixe uma mensagem!"
+  senderName = "Nome (necessário)"
+  senderEmail = "Email (necessário)"
   emailSubject = "Assunto"
-  emailMessage = "Sua mensagem"
+  emailMessage = "Mensagem"
   send = "Enviar"
 
   [Languages.pt.jumbotron]
