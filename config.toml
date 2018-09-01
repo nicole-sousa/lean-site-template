@@ -18,7 +18,7 @@ DefaultContentLanguage = "pt"
 
   [Languages]
   [Languages.pt]
-  title = "Altruísmo Eficaz - USP"
+  title = "AE USP"
   weight = 1
   languageCode = "pt"
 
