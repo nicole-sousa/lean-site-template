@@ -38,8 +38,8 @@ DefaultContentLanguage = "pt"
   # You probably don't need/want to change these,
   # but if you do you'll also want to change the relevant .md file under the
   # content folder so the copy corresponds with the header.
-  home = "Home"
-  faq = "FAQ"
+  home = "Página Principal"
+  faq = "Perguntas Frequentes"
   effectiveAltruism = "Altruísmo Eficaz"
   aboutEA = "Sobre"
   readingMaterial = "Sugestões de Leitura"
