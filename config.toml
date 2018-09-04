@@ -75,7 +75,7 @@ DefaultContentLanguage = "pt"
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
   firstButtonText = "Facebook"
-  firstButtonLink = ""
+  firstButtonLink = "https://www.facebook.com/altruismoeficazusp/"
   secondButtonText = "Lista de Email"
   secondButtonLink = ""
   # Remove the # before the text to add the optional Meetup button
