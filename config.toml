@@ -77,7 +77,7 @@ DefaultContentLanguage = "pt"
   firstButtonText = "Facebook"
   firstButtonLink = "https://www.facebook.com/altruismoeficazusp/"
   secondButtonText = "Lista de Email"
-  secondButtonLink = ""
+  secondButtonLink = "http://eepurl.com/dF70Dz"
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
 
