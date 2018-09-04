@@ -4,40 +4,40 @@ date: 2017-12-28T15:58:20-08:00
 draft: false
 ---
 
-## Key EA Terms
+## Conceitos
 <br>
 
-#### Core Ideas
-**Effective altruism**: Effective altruism (EA) is the name of a growing social movement and an idea – based around using evidence and reason to find the most effective possible ways of doing good in the world. An effective altruist is someone who identifies with and tries to act according to the principles of Effective Altruism.
+#### Ideias centrais
+**Altruísmo eficaz** : O altruísmo eficaz (AE) é o nome de um movimento social crescente e uma ideia - baseada no uso de evidências e razão para encontrar as maneiras mais eficazes possíveis de fazer o bem no mundo. Um altruísta eficaz é alguém que se identifica e tenta agir de acordo com os princípios do Altruísmo Eficaz.
 
-**Cost-effectiveness**: The cost-effectiveness of a charitable intervention simply refers to how much good it does with a certain amount of resources. The cost-effectiveness of a donation to a charity typically refers to how much good the donation does *on the margin* e.g. if you donate $100 to a charity, how much *extra* impact will be produced.
+**Custo-benefício** : A relação custo-benefício de uma intervenção de caridade simplesmente se refere ao quanto ela faz com uma certa quantia de recursos. A relação custo-eficácia de uma doação para uma instituição de caridade normalmente se refere a quanto a doação faz * na margem *, por exemplo, se você doar R$ 100 para uma instituição de caridade, quanto impacto * extra * será produzido.
 
-**Impartiality**: Impartiality is the valuing of all lives equally, independent of location, age, gender, etc.
+** Imparcialidade **: Imparcialidade é a valorização de todas as vidas igualmente, independentemente da localização, idade, sexo, etc.
 
-**Cause-neutrality**: One is cause-neutral if one chooses where and how to help (e.g. which charity to donate to), only based on how much doing so would help. That is to say, one does not have a “pet cause.”
+** Neutralidade de causa **: Uma pessoa é neutra em termos de causa se escolhe onde e como ajudar (por exemplo, para doação de caridade), apenas com base em quanto isso ajudaria o recipiente. Ou seja, não se tem uma “causa de estimação”.
 
-**Prioritization**: Cause areas can be evaluated in terms of their scale (how large is the problem and how much would it help to solve it), tractability (how easy is it to make progress) and neglectedness (how many resources are already dedicated to this problem) 
-.
+** Priorização **: As causas podem ser avaliadas em termos de sua escala (quão grande é o problema e o quanto isso ajudaria a resolvê-lo), tratabilidade (quão fácil é progredir na área) e negligência (quantos recursos já são dedicados a esse problema). 
 
-**Counterfactual reasoning**: Counterfactual reasoning looks at how much impact an action has relative to what would have happened otherwise. Your counterfactual impact would then be the amount of *extra* good done through your action.
 
-**Leveraging donations**: Sometimes, charitable donations can be leveraged to increase their effect. For example, instead of donating $1000 to charity, one might use the $1000 to hold a fundraiser event which results in the donation of more than $1000.
+** Raciocínio contrafactual **: O raciocínio contrafactual analisa quanto impacto uma ação tem em relação ao que teria acontecido caso ela não tivesse sido feita. Seu impacto contrafactual seria, então, a quantia * extra * de bem causada por meio de sua ação.
+
+** Alavancando doações **: Às vezes, doações de caridade podem ser alavancadas para aumentar seu efeito. Por exemplo, em vez de doar R$ 1000 para caridade, pode-se usar os R$ 1000 para realizar um evento de arrecadação que resulte na doação de mais de R$ 1000 no final.
 <br>
 
-#### Philosophy
-**Consequentialism**: Consequentialism is the view that the rightness of an action depends only on its consequences, that is whether  the states of the world it causes are good or bad. Most effective altruists are consequentialists. Moral philosopher and effective altruist Thomas Pogge is one notable exception; he subscribes to a deontological system of ethics (one in which people have duties to do or not do certain actions).
+#### Filosofia
+** Consequencialismo **: Consequencialismo é a visão de que se uma ação é correta ou não depende apenas de suas consequências, ou seja, se os estados do mundo que ela gera são bons ou ruins. Muitos altruístas eficazes são consequencialistas. O filósofo moral e altruísta eficaz Thomas Pogge é uma notável exceção; ele adota um sistema deontológico de ética (um em que as pessoas têm o dever de fazer ou não certas coisas).
 
-**Utilitarianism**: Utilitarianism is a particular consequentialist moral theory, which states that an act is good or bad according to the extent to which it increases happiness and decreases suffering. Other variants of utilitarianism, such as preference utilitarianism, seek to maximise the satisfaction of people's preferences, whether or not this leads to pleasure. 
+** Utilitarismo **: O utilitarismo é uma teoria moral consequencialista particular, que afirma que um ato é bom ou ruim de acordo com a medida em que aumenta a felicidade e diminui o sofrimento. Outras variantes do utilitarismo, como o utilitarismo de preferências, procuram maximizar a satisfação das preferências das pessoas, quer isso leve ou não ao prazer. 
 
-**Population ethics**: Population ethics asks questions such as whether it is better to bring about a larger total amount of happiness in the world (e.g. by having a higher population that is less happy) or a smaller population who are happier on average, and whether we ought to count causing new happy people to be born in the future as equally important as making people who currently exist happy.
-Population ethics is a source of significant disagreement among philosophers in general as well as effective altruists.
+** Ética populacional **: a ética populacional questiona se é melhor gerar uma quantidade total maior de felicidade no mundo (por exemplo, ter uma população maior que seja menos feliz) ou uma população menor que, em média, seja mais feliz, e se devemos considerar que fazer novas pessoas felizes nascerem no futuro é tão importante quanto tornar felizes as pessoas que atualmente existem.
+A ética populacional é uma fonte de discordância significativa entre os filósofos em geral, bem como entre altruístas eficazes.
 
-**Rationalism**: Rationalism is an approach to improving one's thinking and an associated community, interested in studying cognitive biases, statistics. 
+** Racionalismo **: O racionalismo é uma abordagem para melhorar o pensamento e uma comunidade associada ao AE, interessada em estudar vieses cognitivos, estatísticas, etc. 
 
-**Earning to give**: Earning to give refers to the practice of choosing a career not for its direct impact but for its salary, and then donating a significant portion of this salary to effective charities. Earning to give can sometimes be more effective than direct work, through your donations allowing others to do more good than you would directly.
+** Ganhar para doar **: Ganhar para doar refere-se à prática de escolher uma carreira não pelo seu impacto direto, mas pelo seu salário, e depois doar uma parte significativa deste salário para instituições de caridade eficazes. Ganhar para doar às vezes pode ser mais eficaz do que o trabalho direto, permitindo através de suas doações que outros façam mais bem do que você faria diretamente.
 
-**Pledge (GWWC & TLYCS)**: Many effective altruists sign pledges to donate a significant portion of their incomes to charity. Members of Giving What We Can pledge at least 10% of their income to the charities they believe to be the most effective. TLYCS has a similar pledge. A more general pledge is available at http://effectivealtruismhub.com/donations.
+** Pledge (GWWC & TLYCS) **: Muitos altruístas efetivos fazem compromissos de doar uma parcela significativa de suas rendas para a caridade. Os membros da Giving What We Can podem se comprometer a doar pelo menos 10% de sua renda para as instituições de caridade que acreditam serem as mais eficazes. A TLYCS tem uma * pledge * semelhante. Uma * pledge * mais geral está disponível em http://effectivealtruismhub.com/donations.
 
-**X-Risk**: An existential risk is a danger that is global in scope and terminal in intensity. That is, it threatens to “either annihilate Earth-originating intelligent life or permanently and drastically curtail its potential.” Examples include severe climate change, nuclear warfare, and unfriendly artificifial intelligence.
+** X-Risk **: Um risco existencial é um perigo que é global em escopo e terminal em intensidade. Isto é, ameaça "aniquilar a vida inteligente originada na Terra ou limitar permanentemente e drasticamente seu potencial". Exemplos incluem mudanças climáticas severas, guerra nuclear e inteligência artificial hostil.
 
-**Meta-EA**: A meta-EA charity is an organization which contributes indirectly by seeking to build the effective altruism movement or increase its efficiency. Examples include GiveWell, CEA, TLYCS, and MIRI.
+** Meta-organização AE **: Uma meta-organização AE é uma organização que contribui indiretamente, buscando construir o movimento de altruísmo eficaz ou aumentar sua eficiência. Exemplos incluem GiveWell, CEA, TLYCS e MIRI.
