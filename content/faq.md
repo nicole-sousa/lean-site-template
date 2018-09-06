@@ -7,7 +7,7 @@ draft: false
 ## Perguntas Frequentes
 <br>
 
-#### Então, qual é altruísmo eficaz?  
+#### Então, o que é altruísmo eficaz?  
 
 
 A ideia central:  
@@ -176,79 +176,4 @@ Sim, muitos de nós estão interessados em política, e alguns estão buscando a
 
 Nenhuma das alternativas. Temos pessoas de todo o espectro político participando. O que nos une é ter uma mente aberta e uma abordagem pragmática para ajudar os outros. Pessoas de muitas convicções políticas compartilham isso.
 
-#### Eu não acho que 'caridade' funcione bem em geral.
-
-É possível que a maioria das instituições de caridade seja ineficaz, algo que muitos de nós acreditamos, mas um pequeno número alcance resultados surpreendentes. É por isso que é tão importante encontrar as melhores. No entanto, se você é extremamente cético em relação às organizações sem fins lucrativos, o altruísmo eficaz não é especificamente sobre as organizações sem fins lucrativos - elas são apenas uma via possível para o impacto social.
-
-#### O que significa ajudar as pessoas? Ou, o que é 'fazer o bem'?
-
-Altruístas eficazes se concentram em melhorar vidas. Todos concordariam que, tudo o mais constante, reduzir o sofrimento e aumentar a felicidade é bom. Pode haver outras formas de fazer o bem - como promover a arte e a cultura - mas não é disso que trata o altruísmo eficaz.
-
-[Leia mais] (https://80000hours.org/articles/the-meaning-of-making-a-difference/).
-
-Pode ser difícil comparar imparcialmente benefícios diferentes recebidos por pessoas diferentes, mas tentamos ser tão neutros quanto possível ao fazer isso também.
-
-#### Quem são esses 'outros' que vocês estão tentando ajudar?
-
-Outras pessoas vivas agora ao redor do mundo estão obviamente incluídas. A maioria também acha que os animais são importantes - embora geralmente contem menos que um ser humano - assim como pessoas que possam viver no futuro. O critério mais popular para inclusão é "estar consciente", embora, é claro, o que é consciência e quem é consciente não seja um problema resolvido.
-
-#### Todos vocês são vegetarianos?
-
-Um número significativo é, porque eles acham que os animais de fazenda vivem vidas horríveis, especialmente quando confinados em fazendas de criação intensiva, ou que a agricultura animal é prejudicial ao meio ambiente. Mas, ao mesmo tempo, muitos não são.
-
-Alguns de nós estão pesquisando [como melhor ajudar os animais](http://animalcharityevaluators.org/).
-
-#### Isso é utilitarismo?
-
-Diferentemente do [utilitarismo](https://pt.wikipedia.org/wiki/Utilitarismo), o altruísmo eficaz não necessariamente diz que ajudar os outros é obrigatório, e o altruísmo eficaz não diz que é permissível violar os direitos das pessoas, mesmo que levasse a melhores consequências.
-
-Os utilitários geralmente estão entusiasmados com a ideia de altruísmo eficaz, mas muitos altruístas eficazes não são utilitários e se preocupam intrinsecamente com outras coisas além do bem-estar, como violação de direitos, liberdade, desigualdade, virtude pessoal e muito mais. Na prática, a maioria das pessoas dá um pouco de peso a uma série de diferentes teorias éticas.
-
-#### Como as pessoas que vocês estão tentando ajudar estão envolvidas na tomada de decisões?
-
-A possibilidade de não compreendermos e atendermos às necessidades das pessoas que estamos tentando ajudar é real, e um risco que temos de permanecer constantemente vigilantes. Se não ouvirmos ou entendermos os destinatários, seremos menos eficazes, o que é oposto ao nosso objetivo.
-
-Grupos diferentes têm maneiras diferentes de lidar com isso.
-
-Algumas pessoas apoiam a GiveDirectly porque ela dá dinheiro para as pessoas em situação de pobreza, deixando-as decidir como gastam o dinheiro. Isso é visto como empoderamento das pessoas em situação de pobreza em maior escala do que a escolha de serviços que, em última análise, podem não ser desejados pela comunidade local.
-
-Outros fornecem serviços básicos de saúde, como vacinas ou micronutrientes, que consideram tão claramente bons que é muito improvável que os receptores não os valorizem (e, em qualquer caso, poderiam rejeitá-los se quisessem). Eles esperam, então, que uma saúde melhor permita às pessoas melhorar aspectos de suas próprias vidas de maneiras que nós, como estranhos, não poderiamos.
-Nos casos em que os itens acima não se aplicam, é necessário realizar avaliações de impacto detalhadas para ver como os destinatários realmente se sentem sobre o serviço que pretende ajudá-los. É claro que essas pesquisas nem sempre são confiáveis.
-
-Em outros casos em que as pessoas estão tentando ajudar animais ou gerações futuras, esses problemas podem ser ainda mais difíceis, e as pessoas fazem o melhor que podem para prever o que eles gostariam se pudessem falar conosco. Casos óbvios incluiriam porcos que não gostariam de ficar permanentemente confinados em “caixas de gestação” nas quais eles não podem se virar, ou gerações futuras não dispostas a herdar um planeta no qual humanos não podem viver com facilidade.
-
-#### Eu já pago meus impostos. Por que eu deveria fazer mais?
-
-Mesmo depois de pagar nossos impostos, muitos de nós descobrimos que ainda temos muita capacidade e desejo de ajudar as pessoas. Para alguns de nós isso é baseado no entusiasmo com as oportunidades que vemos para melhorar a vida das pessoas; para outros, é baseado em um senso de dever para com os menos afortunados. Em muitos casos, apoiamos causas válidas que não são abordadas pelos governos.
-
-#### Existem altruístas eficazes religiosos?
-
-Sim, há altruístas eficazes de diversas origens religiosas. Muitas religiões historicamente incorporaram a caridade ou o dízimo e promoveram ajudar os outros, e os altruístas eficazes religiosos acham que é importante observar esses deveres da melhor maneira possível. Dito isto, há também muitos altruístas eficazes não religiosos.
-
-#### Por que eu deveria me juntar ao movimento de altruísmo eficaz? Eu já estou planejando fazer muito bem por conta própria, e não tenho certeza se sua abordagem é a melhor.
-
-Juntar-se ao movimento tem uma série de vantagens:
-
-- Há muitas pessoas qualificadas que podem se juntar a você para ajudar em seus projetos.
-- Se você oferecer boas críticas ou sugestões, você tem o potencial de influenciar o resto de nós a adotar qualquer abordagem que você acha que é mais eficaz.
-- Podemos reunir nossos recursos para conduzir pesquisas que podem ajudar a descobrir como ter mais impacto.
-- Você pode aprender observando como outras pessoas na comunidade pensam ou se comportam.
-- É bom ter amigos que pensam como nós, e eles podem mantê-lo motivado quando as coisas estiverem difíceis.
-
-Dito isto, é possível se envolver com o altruísmo eficaz sem ter qualquer interesse na comunidade. Se você já causa muito impacto mesmo sem nós, isso é ótimo!
-
-#### Como posso me envolver?
-
-Estamos felizes que você gostaria de se juntar a nós! Aqui estão algumas coisas que você pode fazer:
-
-- Saiba mais sobre o que fazemos através do [guia de bolso do altruísmo eficaz](http://effective-altruism.com/ea/hx/effective_altruism_handbook_now_online/) ou [Doing Good Better](http://www.amazon.com/Doing-Good-Better-Effective-Difference/dp/1592409105), de William MacAskill.
-- Conheça pessoas que pensam como você em nosso [fórum](http://effective-altruism.com/) ou em [nossa conferência anual](http://www.eaglobal.org/).
-- Descubra como você pode ter mais [impacto através de sua carreira] (http://www.80000hours.org/).
-- Leia este post sobre [pequenas coisas eficazes] (http://effective-altruism.com/ea/7k/what_small_things_can_an_ea_do/) que você pode fazer.
-- Doe para instituições de caridade altamente eficazes.
-- [Comprometa-se a doar parte do que você ganha para instituições de caridade eficazes] (https://www.givingwhatwecan.org/).
-- Participe ou inicie um capítulo local ou [grupo AE] (http://effectivealtruismhub.com/groups).
-- Candidate-se para trabalhar em uma organização alinhada com o AE, por exemplo [GiveWell](http://www.givewell.org/about/jobs) ou [Center for Effective Altruism](https://centreforeffectivealtruism.org/careers/).
-
-
-Escrito e traduzido por diversos colaboradores.
+#### Eu não a
