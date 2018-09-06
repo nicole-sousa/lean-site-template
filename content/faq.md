@@ -13,7 +13,7 @@ draft: false
 A ideia central:  
 
 
-** O altruísmo eficaz usa evidências e análises para tomar ações que ajudem os outros o máximo possível.**
+**O altruísmo eficaz usa evidências e análises para tomar ações que ajudem os outros o máximo possível.**
 
 
 O mundo tem muitos problemas horríveis, mas não podemos trabalhar em todos de uma vez. Nosso objetivo é realizar o melhor para o mundo com o tempo, energia e recursos que temos.
