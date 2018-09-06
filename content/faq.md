@@ -4,251 +4,251 @@ date: 2017-12-27T02:15:52-08:00
 draft: false
 ---
 
-## Frequently Asked Questions
+## Perguntas Frequentes
 <br>
 
-#### So what is effective altruism?  
+#### Então, qual é altruísmo eficaz?  
 
 
-The core idea:  
+A ideia central:  
 
 
-**Effective altruism is using evidence and analysis to take actions that help others as much as possible.**
+** O altruísmo eficaz usa evidências e análises para tomar ações que ajudem os outros o máximo possível.**
 
 
-The world has a lot of horrible problems but we can’t work on them all at once. Our goal is to accomplish the most good for the world with our limited time, energy, and resources.
+O mundo tem muitos problemas horríveis, mas não podemos trabalhar em todos de uma vez. Nosso objetivo é realizar o melhor para o mundo com o tempo, energia e recursos que temos.
 
-There is a lot of agreement among people in the movement about what questions we should ask when figuring out what will help others the most. These include:
+Há muita concordância entre as pessoas no movimento sobre quais perguntas devemos fazer para descobrir o que mais ajudará os outros. Elas incluem:
 
-- How many does this action affect, and by how much? (Because we want to improve lives by as much as possible.)
-- Is this the very best thing you can do? (Because different actions often vary hugely in effectiveness, making the best things much better than average.)
-- What difference does my action make? (What’s the difference between what happens if I act, and what would have happened anyway?)
-- What’s the difference I make on the margin? (A project might be very good, but lack opportunities for extra people to improve it further.)
-- What’s the probability of success/failure and how good/bad would that be?
+- Quantas pessoas essa açãos afeta, e quanto ela afeta cada uma? (Porque queremos melhorar vidas o máximo possível.)
+- Essa é a melhor coisa que se pode fazer? (Porque ações diferentes frequentemente variam muito em eficácia, tornando as melhores delas muito superiores à média.)
+- Que diferença a minha ação faz? (Qual é a diferença entre o que acontece se eu agir e o que teria acontecido se eu não tivesse feito nada?)
+- Que diferença que eu faço na margem? (Um projeto pode ser muito bom, mas faltam oportunidades para pessoas adicionais melhorarem trabalharem nele.)
+- Qual é a probabilidade de sucesso/fracasso e quão bom/ruim isso seria?
 
-As a rule of thumb, effective altruists are looking for causes or approaches that score well on 3 criteria:
+Como regra geral, os altruístas eficazes estão procurando por causas ou abordagens que pontuem bem em 3 critérios:
 
-- Important: helps many people a lot.
-- Neglected: other people aren’t already taking all of the good opportunities.
-- Tractable: there’s something practical you can do that might succeed.
+- Importante: ajuda muitas pessoas.
+- Negligenciada: outras pessoas não estão aproveitando todas as boas oportunidades.
+- Tratável: há algo prático que você pode fazer para ter sucesso.
 
-Then there are people’s best guesses about what specific actions are the most effective. Beliefs vary widely on this topic, and cause selection is an active field of research, but some of the currently most popular options include:
+Há também os palpites das pessoas sobre quais ações específicas são mais eficazes. As crenças variam muito neste tópico e fazem com que a seleção de uma causa seja um campo ativo de pesquisa, mas algumas das opções mais populares atualmente incluem:
 
-- Scale up proven health treatments in the developing world, for example [anti-malaria bed net distribution](https://www.againstmalaria.com/)
-- [Give cash](https://givedirectly.org/) to the world’s poorest people
-- [Opening borders](http://openborders.info/) to a larger number of migrants, especially those escaping poverty or persecution.
-- Research the safe use of technologies that have the potential to do great amounts of good, or might do a lot of harm, such as [artificial intelligence](http://www.fhi.ox.ac.uk/research/research-areas/).
-- Help animals in factory farms, for example by [persuading people to be vegetarian](http://www.mercyforanimals.org/), [changing animal welfare regulation](http://www.humanesociety.org/), or [inventing meat substitutes](http://www.new-harvest.org/).
-- Reform the [US criminal justice system](http://blog.givewell.org/2015/06/16/incoming-program-officer-for-criminal-justice-reform-chloe-cockburn/) to prevent crime more effectively while causing less unnecessary suffering.
-- Reduce [carbon emissions](https://www.givingwhatwecan.org/research/charities-area/climate-change), or research geoengineering, in order to lower the risk of catastrophic climate change.
-- [Increasing support](https://centreforeffectivealtruism.org/) for effective altruism itself, in order to get more effective work on the areas listed above.
+- Aumentar os tratamentos de saúde eficazes no mundo em desenvolvimento, como a [distribuição de rede anti-malária] (https://www.againstmalaria.com/).
+- [Dar dinheiro] (https://givedirectly.org/) para as pessoas mais pobres do mundo.
+- [Abrir fronteiras] (http://openborders.info/) para um número maior de migrantes, especialmente aqueles que fogem da pobreza ou da perseguição.
+- Pesquisar como garantir a segurança de tecnologias que têm o potencial de causar benefícios ou danos enormes, como [inteligência artificial] (http://www.fhi.ox.ac.uk/research/research -areas /).
+- Ajudar os animais em fazendas de criação intensiva, por exemplo, [persuadindo as pessoas a serem vegetarianas] (http://www.mercyforanimals.org/), [mudando a regulamentação de bem-estar animal] (http://www.humanesociety.org/), ou [inventando substitutos para carne] (http://www.new-harvest.org/).
+- Reformar o [sistema de justiça criminal dos EUA] (http://blog.givewell.org/2015/06/16/incoming-program-officer-for-criminal-justice-reform-chloe-cockburn/) para prevenir o crime de forma mais eficaz enquanto causa menos sofrimento desnecessário.
+- Reduzir [emissões de carbono] (https://www.givingwhatwecan.org/research/charities-area/climate-change), ou pesquisar geoengenharia, para diminuir o risco de mudanças climáticas catastróficas.
+- [Aumentar o apoio] (https://centreforeffectivealtruism.org/) para o próprio altruísmo eficaz, a fim de obter um trabalho mais eficaz nas áreas listadas acima.
 
-####  I think one of those approaches you listed won’t help people much, or would actually be harmful.
+#### Acho que uma dessas abordagens que você listou não ajuda muito as pessoas, ou seria realmente prejudicial.
 
-OK, probably some others in the community will agree with you! If you have good reasons for thinking that and explain them, you’ll persuade people and help us do a better job of improving the world.
+OK, provavelmente alguns outros membros da comunidade concordarão com você! Se você tiver bons motivos para pensar assim e explicar o seu ponto de vista, você convencerá as pessoas e nos ajudará a melhorar o mundo.
 
-Our whole goal is to be responsive to good evidence and analysis, so we debate a lot and change our minds frequently.
+Nosso objetivo é responder a boas evidências e análises, por isso debatemos muito e mudamos de ideia com frequência.
 
-#### Do you think everyone should do this?
+#### Você acha que todos deveriam fazer isso?
 
-Some people think that helping to improve the world as much as possible is a duty; some just see effective altruism as an exciting opportunity to help others.
+Algumas pessoas pensam que ajudar a melhorar o mundo o máximo possível é um dever; alguns vêem apenas o altruísmo eficaz como uma excelente oportunidade para ajudar os outros.
 
-However you feel, we would love you to join us in improving the world in high-impact ways!
+No entanto, nós adoraríamos que você se juntasse a nós para melhorar o mundo de maneiras que têm alto impacto!
 
-#### Are you saying I should spend all of my money or time on this?
+#### Você está dizendo que eu deveria gastar todo meu dinheiro ou tempo nisso?
 
-Usually doing more to help others is better, but you shouldn’t give up the things that make you happy in life, or neglect your commitments to your friends and family. A common minimum standard to be considered an aspiring ‘effective altruist’ is to give 10% of your income, or noticeably shift your career path in order to have more social impact.
+Geralmente, fazer mais para ajudar os outros é melhor, mas você não deve desistir das coisas que fazem você feliz na vida, ou negligenciar seus compromissos com seus amigos e familiares. Um padrão mínimo comum a ser considerado um aspirante a 'altruísta eficaz' é doar 10% de sua renda, ou mudar sua trajetória de maneira notável para ter mais impacto social.
 
-If you are in a difficult circumstance yourself, the most valuable thing you can do may just be to improve your own life, and focus on helping others later once you’re in a stronger position to do so.
+Se você estiver em uma situação difícil, a coisa mais valiosa que você pode fazer é melhorar sua própria vida e se concentrar em ajudar os outros mais tarde, quando estiver em uma posição melhor para fazê-lo.
 
-#### Isn’t this incredibly obvious?
+#### Isso não é incrivelmente óbvio?
 
-Many of us find it fairly obvious and uncontroversial, but most people don’t seem to live in this way. Either they don’t dedicate much of their efforts into helping others, or they choose what problem to work on based on what they find interesting without doing proper research and comparing their different options first.
+Muitos de nós acham isso bastante óbvio e incontroverso, mas a maioria das pessoas não parece viver dessa maneira. Ou eles não dedicam muito de seus esforços para ajudar os outros, ou eles escolhem o problema para trabalhar com base no que eles acham interessante sem fazer uma pesquisa adequada e comparar suas diferentes opções primeiro.
 
-If it does seem obvious to you though, great! You’ll probably enjoy joining our community.
+Se isso parece óbvio para você, ótimo! Você provavelmente gostará de se juntar à nossa comunidade.
 
-Our goal is to improve the world – not [define effective altruism to be controversial](http://www.effective-altruism.com/ea/l7/why_the_triviality_objection_to_ea_is_beside_the/) for the sake of it.
+Nosso objetivo é melhorar o mundo - não [definir o altruísmo eficaz para ser controverso] (http://www.effective-altruism.com/ea/l7/why_the_triviality_objection_to_ea_is_beside_the/) por causa disso.
 
-#### Do you only do things that are ‘proven’ to work?
+#### Vocês só fazem coisas que são funcionam 'comprovadamente'?
 
-No, although a higher likelihood of success is better, holding everything else equal.
+Não, embora uma maior probabilidade de sucesso seja melhor, tudo o mais constante.
 
-Some people have a strong preference for approaches that have hard empirical evidence behind them, and are skeptical of those which don’t. This is because they think our ability to predict what actions will be helpful and which won’t before they are tested is very limited.
+Algumas pessoas têm uma forte preferência por abordagens que têm fortes evidências empíricas por trás delas, e são céticas em relação àquelas que não têm. Isso acontece porque elas acham que nossa capacidade de prever quais ações serão úteis e quais não serão antes de serem testadas é muito limitada.
 
-But others think the most high-impact opportunities will involve more experimental or ‘speculative’ approaches, such as scientific research or political advocacy.
+Mas outros pensam que as oportunidades de maior impacto envolverão abordagens mais experimentais ou "especulativas", como pesquisa científica ou ativismo político.
 
-Across society as a whole there clearly needs to be a mixture of both.
+Na sociedade, é preciso haver uma mistura de ambos.
 
-#### Is effective altruism about making money and giving donations to charity?
+#### O altruísmo eficaz é sobre ganhar dinheiro e doar para caridade?
 
-That’s one way you might try have the most impact, and one that people have [explored in detail](https://80000hours.org/articles/earning-to-give/), because there was existing research to build on.
+Essa é uma maneira que você pode tentar ter o maior impacto, e uma que as pessoas já [exploraram em detalhes] (https://80000hours.org/articles/earning-to-give/), porque já existiam pesquisas sobre as quais se basear.
 
-But other approaches, like going into politics or starting a business that provides some new useful product, might work even better for some people.
+Mas outras abordagens, como entrar na política ou iniciar um negócio que forneça algum novo produto útil, podem funcionar ainda melhor para algumas pessoas.
 
-This is a topic of [active](https://80000hours.org/2015/07/80000-hours-thinks-that-only-a-small-proportion-of-people-should-earn-to-give-long-term/) [debate](http://effective-altruism.com/ea/mk/peter_hurford_thinks_that_a_large_proportion_of/).
+Este é um tópico de [ativo] (https://80000hours.org/2015/07/80000-hours-thinks-that-only-a-mall-proportion-of-people-should-earn-to-give-long -term /) [debate] (http://effective-altruism.com/ea/mk/peter_hurford_thinks_that_a_large_proportion_of/).
 
-#### Aren’t you neglecting changing the system as a whole?
+#### Vocês não estão negligenciando a mudança do sistema como um todo?
 
-No. There is nothing about effective altruist principles that rejects changing social systems for the better, and some of us are already working on this.
+Não. Não há nada sobre princípios do altruísmo eficaz que rejeite a mudança dos sistemas sociais para melhor, e alguns de nós já estão trabalhando nisso.
 
-It is early days for the movement, and to begin with a lot of research and donations went to approaches that are ‘proven’ to work, such as scaling up rigorously tested health treatments – sometimes by providing technical assistance to governments in the developing world.
+O movimento ainda é muito novo, e no começo muita pesquisa e doações foram para abordagens que são "comprovadas", como a intensificação de tratamentos de saúde rigorosamente testados - às vezes, fornecendo assistência técnica aos governos do mundo em desenvolvimento.
 
-However, as we get more skilled in evaluating what works and what doesn’t, more of us are shifting into approaches that involve systemic change, in some cases quite dramatic ones.
+No entanto, à medida que ficamos mais habilidosos em avaliar o que funciona e o que não funciona, muitos de nós estão mudando para abordagens que envolvem mudanças sistêmicas, em alguns casos bastante dramáticas.
 
-[Read more](https://80000hours.org/2015/07/effective-altruists-love-systemic-change/).
+[Leia mais] (https://80000hours.org/2015/07/effective-altruists-love-systemic-change/).
 
-#### What if I don’t have enough money to give anything?
+#### E se eu não tiver dinheiro suficiente para doar?
 
-You shouldn’t put yourself in a bad situation in order to donate. You’ll probably do more good for others if you focus on progressing your own career first, leaving you with more money for both yourself and others. Alternatively, there are many opportunities for direct work that don’t involve donating money.
+Você não deve se colocar em uma situação ruim para poder doar. Você provavelmente ajudará mais os outros se você se concentrar em progredir em sua carreira primeiro, deixando você com mais dinheiro para si e para os outros. Além disso, existem muitas oportunidades de trabalho direto que não envolvem doações de dinheiro.
 
-Keep in min that you may already be [richer on a global scale than you think](https://www.givingwhatwecan.org/get-involved/how-rich-am-i).
+Mantenha em mente que você já pode ser [mais rico em uma escala global do que você pensa] (https://www.givingwhatwecan.org/get-involved/how-rich-am-i).
 
-#### Have effective altruist researchers looked into [insert cause here]?
+#### Os pesquisadores do altruísmo eficaz analisaram [inserir causa aqui]?
 
-Maybe, but maybe not. There are thousands of possible ways to have a large impact and it is taking time to look into them thoroughly and do proper comparisons. The coverage of our research is growing every year though, as more people work on cause prioritisation research.
+Talvez, mas talvez não. Existem milhares de maneiras possíveis de causar um grande impacto, e leva tempo para examiná-las completamente e fazer comparações adequadas. A cobertura de nossa pesquisa está crescendo a cada ano, conforme mais pessoas trabalham na pesquisa de priorização de causas.
 
-The websites to search to see if your organisation or cause of interest has been discussed include:
+Os sites para pesquisar se sua organização ou causa de interesse foram discutidos incluem:
 
-- [GiveWell](http://www.givewell.org/)
-- [80,000 Hours](http://www.80000hours.org/)
-- [Giving What We Can](http://www.givingwhatwecan.org/)
-- [Open Philanthropy Project](http://www.openphilanthropy.org/)
-- [Global Priorities Project](http://globalprioritiesproject.org/)
-- [Copenhagen Consensus](http://www.copenhagenconsensus.com/)
+- [GiveWell] (http://www.givewell.org/)
+- [80.000 horas] (http://www.80000hours.org/)
+- [Giving What We Can] (http://www.givingwhatwecan.org/)
+- [Open Philanthropy Project] (http://www.openphilanthropy.org/)
+- [Global Priorities Project] (http://globalprioritiesproject.org/)
+- [Copenhagen Consensus] (http://www.copenhagenconsensus.com/)
 
-Or try searching in google for ‘effective altruism’ and the cause you’re interested in.
+Ou tente pesquisar no google por "altruísmo eficaz" e a causa em que está interessado.
 
-#### What if everyone focused on this one cause or charity you’re suggesting? Wouldn’t that be silly?
+#### E se todos focassem nessa causa ou caridade que você está sugerindo? Isso não seria inútil?
 
-Yes it would be silly. We offer recommendations about what we think are the best available opportunities to help, given what other people are already doing right now.
+Sim, seria inútil. Oferecemos recomendações sobre o que achamos que são as melhores oportunidades disponíveis para ajudar, considerando o que outras pessoas já estão fazendo no momento.
 
-As more people take the opportunities we recommend, they will stop being so neglected, and the value of allocating more resources to them will go down. At that point we would be enthusiastic to do more research and change our recommendation to whatever is the new best thing.
+À medida que mais pessoas aproveitarem as oportunidades que recomendamos, elas deixarão de ser tão negligenciadas, e o valor de alocar mais recursos para elas diminuirá. Nesse ponto, ficaríamos entusiasmados em fazer mais pesquisas e mudar nossa recomendação para o que quer que seja a nova melhor causa ou intervenção.
 
-#### How do I compare something that is sure to work, with something that might work, but would be more valuable if it did?
+#### Como faço para comparar algo que funciona com certeza com algo que talvez funcione, mas seria mais valioso se funcionasse?
 
-In brief, the ‘expected value’ of an approach is the likelihood of it succeeding multiplied by the value if it does:
+Em resumo, o "valor esperado" de uma abordagem é a probabilidade de ela funcionar multiplicada pelo valor gerado se funcionar:
 
-Expected value = Probability of success × Value if you succeed
+Valor esperado = Probabilidade de sucesso × Valor se você tiver sucesso
 
-So two things would be equally good if one was half as likely to work, but twice as valuable if it did.
+Assim, duas coisas seriam igualmente boas se uma tivesse metade da probabilidade de funcionar, mas duas vezes mais valor se o fizesse.
 
-Of course estimating the likelihood of success is not easy, and we need to be careful not to be overconfident about our own plans. Estimating the likelihood of success of new projects is the kind of thing professional effective altruist researchers work on.
+É claro que estimar a probabilidade de sucesso não é fácil, e precisamos ter cuidado para não sermos excessivamente confiantes sobre nossos próprios planos. Estimar a probabilidade de sucesso de novos projetos é o tipo de coisa em que os pesquisadores profissionais do altruísmo eficaz trabalham.
 
-[Here’s a more technical definition of expected value](https://en.wikipedia.org/wiki/Expected_value).
+[Aqui está uma definição mais técnica de valor esperado] (https://en.wikipedia.org/wiki/Expected_value).
 
-#### Are you saying [insert cause here], or the thing I’m doing to improve the world, isn’t the most effective?
+#### Vocês estão dizendo [inserir causa aqui], ou o que estou fazendo para melhorar o mundo, não é o mais eficaz?
 
-Maybe.
+Talvez.
 
-We each have a range of opportunities available to us to help others, and some will do so much more than others. If you haven’t actively tried to pick the one that has the largest impact, it’s unlikely that you would have ended up doing the best thing by chance. It’s hard enough to choose the best option even when you dedicating a lot of time into figuring out which it is!
+Cada um de nós tem uma gama de oportunidades disponíveis para ajudar os outros, e alguns farão muito mais do que outros. Se você não tentou ativamente escolher o que tem o maior impacto, é improvável que você acabaria fazendo a melhor coisa por acaso. É difícil escolher a melhor opção mesmo quando você dedica muito tempo para descobrir qual é!
 
-You could probably do even more good if you evaluated and compared multiple different options and chose the one that came out top. This isn’t a criticism of the work you’re already doing, it’s just an exciting opportunity to help even more people!
+Você provavelmente poderia fazer ainda mais se avaliasse e comparasse várias opções diferentes e escolhesse a melhor. Isso não é uma crítica ao trabalho que você já está fazendo, é apenas uma excelente oportunidade para ajudar ainda mais pessoas!
 
-#### Does effective altruism require personal sacrifice?
+#### O altruísmo eficaz requer sacrifício pessoal?
 
-Altruism can require spending your money or your time differently than you would otherwise, and for some people that might be a sacrifice. But for many people, spending your life working to improve the world provides a clear and meaningful goal, and a friendly social group to collaborate with, that might otherwise be lacking.
+O altruísmo pode exigir gastar seu dinheiro ou seu tempo de forma diferente do que você usualmente faria, e para algumas pessoas isso poderia ser um sacrifício. Mas para muitas pessoas, gastar sua vida trabalhando para melhorar o mundo fornece um objetivo claro e significativo, e um grupo social amigável para colaborar com o que, de outra forma, poderia estar faltando.
 
-For such people trying to help others as much as possible could be more purposeful, fulfilling and maybe even more fun, than any of the alternatives.
+Para essas pessoas, ajudar os outros tanto quanto possível pode ser mais significativo, gratificante e talvez até mais divertido, do que qualquer uma das alternativas.
 
-First and foremost you have to make sure you stay enthusiastic and don’t burn out, because if you do you won’t be able to help anyone.
+Antes de mais nada, você tem que ter certeza de que consegue se manter entusiasmado ou não será capaz de ajudar ninguém.
 
-Regardless, there’s nothing desirable about sacrifice in and of itself.
+Independentemente disso, não há nada de desejável no sacrifício.
 
-#### Doesn’t charity start at home?
+#### A caridade não começa em casa?
 
-There’s nothing bad about helping people you know, or even yourself. But often the opportunities to help people far away are vastly greater than the opportunities to help people near you, especially if you live in a wealthy country.
+Não há nada de ruim em ajudar as pessoas que você conhece ou a si mesmo. Mas em muitos casos as oportunidades de ajudar pessoas distantes são muito maiores, especialmente se você mora em um país rico.
 
-For example for $1,000 you could [double the annual income](http://www.givedirectly.org/) for a family engaged in subsistence agriculture in Kenya. This can be life-transforming for several people. If you live in a wealthy country, it’s hard for $1,000 to achieve anywhere near as much in your local community.
+Por exemplo, por cerca de R$ 4.000 você poderia [dobrar a renda anual] (http://www.givedirectly.org/) de uma família envolvida na agricultura de subsistência no Quênia. Isso pode transformar a vida de várias pessoas. No Brasil, que é um país de renda média, é mais difícil esse valor promover o mesmo impacto.
 
-Most effective altruists think that everyone is equally important, no matter where they live or whether we are friends with them.
+Os altruístas eficazes acham que todos são igualmente importantes, não importa onde morem ou se são seus amigos próximos.
 
-#### Isn’t this kind of calculating and impersonal?
+#### Isso não é calculista e impessoal?
 
-Well it’s true that we do calculations, and we don’t always know the people we are assisting. But most of us are drawn to do this because we have a high level of empathy for others’ lives, regardless of where they are.
+Bom, é verdade que fazemos cálculos e nem sempre conhecemos as pessoas que estamos ajudando. Mas a maioria de nós é atraída para fazer isso porque temos um alto nível de empatia pela vida dos outros, independentemente de onde eles estejam.
 
-We want to figure out where we can help the most because we care a lot.
+Queremos descobrir onde podemos ajudar mais porque nos importamos muito.
 
-#### Are any of you involved in politics?
+#### Algum de vocês está envolvido na política?
 
-Yes, many of us are interested in politics, and some are actively pursuing careers in politics across a range of parties, or through research into the most valuable policy changes to pursue.
+Sim, muitos de nós estão interessados em política, e alguns estão buscando ativamente carreiras na política em vários partidos, ou através de pesquisas sobre as mudanças políticas mais valiosas a serem seguidas.
 
-#### I don’t think ‘charity’ works well in general.
+#### O altruísmo eficaz é de esquerda, de direita, libertário, conservador ou algo mais?
 
-It’s possible for most charities to be ineffective, something that many of us believe, but a small number to achieve amazing outcomes. That’s why it’s so important to find the best ones. If you are extremely skeptical of non-profits though, effective altruism isn’t about non-profits specifically – non-profits are just one possible route to social impact.
+Nenhuma das alternativas. Temos pessoas de todo o espectro político participando. O que nos une é ter uma mente aberta e uma abordagem pragmática para ajudar os outros. Pessoas de muitas convicções políticas compartilham isso.
 
-#### What does it mean to help people? Or, what is good?
+#### Eu não acho que 'caridade' funcione bem em geral.
 
-Effective altruists focus on improving lives. Everyone would agree that, all other things equal, reducing suffering and increasing happiness is good. There might be other things of value as well – promoting art, or preserving the natural environment – but that’s not what effective altruism is about.
+É possível que a maioria das instituições de caridade seja ineficaz, algo que muitos de nós acreditamos, mas um pequeno número alcance resultados surpreendentes. É por isso que é tão importante encontrar as melhores. No entanto, se você é extremamente cético em relação às organizações sem fins lucrativos, o altruísmo eficaz não é especificamente sobre as organizações sem fins lucrativos - elas são apenas uma via possível para o impacto social.
 
-[Read more](https://80000hours.org/articles/the-meaning-of-making-a-difference/).
+#### O que significa ajudar as pessoas? Ou, o que é 'fazer o bem'?
 
-It can be hard to impartially compare different benefits received by different people, but we attempt to be as neutral as we can when doing that too.
+Altruístas eficazes se concentram em melhorar vidas. Todos concordariam que, tudo o mais constante, reduzir o sofrimento e aumentar a felicidade é bom. Pode haver outras formas de fazer o bem - como promover a arte e a cultura - mas não é disso que trata o altruísmo eficaz.
 
-#### Who are these ‘others’ you are trying to help?
+[Leia mais] (https://80000hours.org/articles/the-meaning-of-making-a-difference/).
 
-Other people alive now around the world are obviously included. Most also think that non-human animals matter – though usually each counting for less than one human – as well as people who might live in the future. The most popular criterion for inclusion is ‘being conscious’, though of course what consciousness is and who is conscious is not a solved problem.
+Pode ser difícil comparar imparcialmente benefícios diferentes recebidos por pessoas diferentes, mas tentamos ser tão neutros quanto possível ao fazer isso também.
 
-#### Are you all vegetarians?
+#### Quem são esses 'outros' que vocês estão tentando ajudar?
 
-A significant number are, because they think farmed animals live horrible lives, especially when confined in factory farms, or that animal agriculture is harmful for the environment. But at the same time, many are not.
+Outras pessoas vivas agora ao redor do mundo estão obviamente incluídas. A maioria também acha que os animais são importantes - embora geralmente contem menos que um ser humano - assim como pessoas que possam viver no futuro. O critério mais popular para inclusão é "estar consciente", embora, é claro, o que é consciência e quem é consciente não seja um problema resolvido.
 
-Some of us are researching [how best to help non-human animals](http://animalcharityevaluators.org/).
+#### Todos vocês são vegetarianos?
 
-#### Is this utilitarianism?
+Um número significativo é, porque eles acham que os animais de fazenda vivem vidas horríveis, especialmente quando confinados em fazendas de criação intensiva, ou que a agricultura animal é prejudicial ao meio ambiente. Mas, ao mesmo tempo, muitos não são.
 
-Unlike [utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism), effective altruism doesn’t necessarily say that helping others is obligatory, and effective altruism doesn’t say that it’s permissible to violate people’s rights even if doing so would lead to the best consequences.
+Alguns de nós estão pesquisando [como melhor ajudar os animais](http://animalcharityevaluators.org/).
 
-Utilitarians are usually enthusiastic about the idea of effective altruism, but many effective altruists are not utilitarians and care intrinsically about things other than welfare, such as violation of rights, freedom, inequality, personal virtue and more. In practice, most people give a bit of weight to a range of different ethical theories.
+#### Isso é utilitarismo?
 
-#### How are the people you’re trying to help involved in decision-making?
+Diferentemente do [utilitarismo](https://pt.wikipedia.org/wiki/Utilitarismo), o altruísmo eficaz não necessariamente diz que ajudar os outros é obrigatório, e o altruísmo eficaz não diz que é permissível violar os direitos das pessoas, mesmo que levasse a melhores consequências.
 
-The possibility that we don’t actually understand and address the needs of the people we are trying to help is real, and a risk we have to remain constantly vigilant about. If we don’t listen to or understand recipients we will be less effective, which is the opposite of our goal.
+Os utilitários geralmente estão entusiasmados com a ideia de altruísmo eficaz, mas muitos altruístas eficazes não são utilitários e se preocupam intrinsecamente com outras coisas além do bem-estar, como violação de direitos, liberdade, desigualdade, virtude pessoal e muito mais. Na prática, a maioria das pessoas dá um pouco de peso a uma série de diferentes teorias éticas.
 
-Different groups have different ways of dealing with this.
+#### Como as pessoas que vocês estão tentando ajudar estão envolvidas na tomada de decisões?
 
-Some people support GiveDirectly because it gives cash to people in poverty, leaving it entirely up to them how they spend the money. This is seen as empowering people in poverty to a greater extent than choosing services that may ultimately not be desired by the local community.
+A possibilidade de não compreendermos e atendermos às necessidades das pessoas que estamos tentando ajudar é real, e um risco que temos de permanecer constantemente vigilantes. Se não ouvirmos ou entendermos os destinatários, seremos menos eficazes, o que é oposto ao nosso objetivo.
 
-Others provide basic health services, such as vaccinations or micronutrients, that they regard as so clearly good it is very unlikely the recipients wouldn’t value them (and in any case, could reject if they wanted). They then hope that better health will empower people to improve aspects of their own circumstances in ways we as outsiders cannot.
-In cases where the above don’t apply, you have to conduct detailed impact evaluations to see how the recipients actually feel about the service that purports to help them. Of course such surveys won’t always be reliable,
+Grupos diferentes têm maneiras diferentes de lidar com isso.
 
-In other cases where people are trying to help non-human animals or future generations, these issues can be even more difficult, and people do their best to predict what they would want if they could speak to us. Obvious cases would include pigs not wanting to be permanently confined to ‘gestation crates’ in which they cannot turn around, or future generations not wanting to inherit a planet on which humans cannot easily live.
+Algumas pessoas apoiam a GiveDirectly porque ela dá dinheiro para as pessoas em situação de pobreza, deixando-as decidir como gastam o dinheiro. Isso é visto como empoderamento das pessoas em situação de pobreza em maior escala do que a escolha de serviços que, em última análise, podem não ser desejados pela comunidade local.
 
-#### Is effective altruism left-wing, right-wing, libertarian, conservative, or something else?
+Outros fornecem serviços básicos de saúde, como vacinas ou micronutrientes, que consideram tão claramente bons que é muito improvável que os receptores não os valorizem (e, em qualquer caso, poderiam rejeitá-los se quisessem). Eles esperam, então, que uma saúde melhor permita às pessoas melhorar aspectos de suas próprias vidas de maneiras que nós, como estranhos, não poderiamos.
+Nos casos em que os itens acima não se aplicam, é necessário realizar avaliações de impacto detalhadas para ver como os destinatários realmente se sentem sobre o serviço que pretende ajudá-los. É claro que essas pesquisas nem sempre são confiáveis.
 
-None of the above. We have people participating from across the political spectrum. What unifies us is having an open mind and a pragmatic approach to helping others. People of many political persuasions share that.
+Em outros casos em que as pessoas estão tentando ajudar animais ou gerações futuras, esses problemas podem ser ainda mais difíceis, e as pessoas fazem o melhor que podem para prever o que eles gostariam se pudessem falar conosco. Casos óbvios incluiriam porcos que não gostariam de ficar permanentemente confinados em “caixas de gestação” nas quais eles não podem se virar, ou gerações futuras não dispostas a herdar um planeta no qual humanos não podem viver com facilidade.
 
-#### I already pay my taxes. Why should I have to do more?
+#### Eu já pago meus impostos. Por que eu deveria fazer mais?
 
-Even after paying our taxes, many of us find we still have plenty of capacity and desire to help people. For some of us that is based in excitement about the opportunities we see to improve people’s lives; for others it is based on a sense of duty towards those less fortunate than ourselves. In many cases we support worthwhile causes which are simply not addressed by governments.
+Mesmo depois de pagar nossos impostos, muitos de nós descobrimos que ainda temos muita capacidade e desejo de ajudar as pessoas. Para alguns de nós isso é baseado no entusiasmo com as oportunidades que vemos para melhorar a vida das pessoas; para outros, é baseado em um senso de dever para com os menos afortunados. Em muitos casos, apoiamos causas válidas que não são abordadas pelos governos.
 
-#### Are there religious effective altruists?
+#### Existem altruístas eficazes religiosos?
 
-Yes, there are effective altruists from a variety of religious backgrounds. Many religions have historically incorporated charity or tithing and promoted helping others, and religious effective altruists think it’s important to observe these duties as best they can. That said, there are also many non-religious effective altruists.
+Sim, há altruístas eficazes de diversas origens religiosas. Muitas religiões historicamente incorporaram a caridade ou o dízimo e promoveram ajudar os outros, e os altruístas eficazes religiosos acham que é importante observar esses deveres da melhor maneira possível. Dito isto, há também muitos altruístas eficazes não religiosos.
 
-#### Why should I join the effective altruist movement? I’m already planning on doing a lot of good on my own, and I’m not sure your approach is best.
+#### Por que eu deveria me juntar ao movimento de altruísmo eficaz? Eu já estou planejando fazer muito bem por conta própria, e não tenho certeza se sua abordagem é a melhor.
 
-We are a friendly, motivated and well-read bunch of people. Joining the movement has a number of advantages to going in on your own:
+Juntar-se ao movimento tem uma série de vantagens:
 
-- There are many skilled people who might join you to help with your projects.
-- If you offer good criticism or suggestions, you have the potential to influence the rest of us to adopt whatever approach you think is more effective.
-- We can pool our resources to conduct research that can help us all figure out how to have more impact.
-- You can learn by watching how other people in the community think or behave.
-- It’s nice to have like-minded friends, and they might keep you motivated when things are hard.
+- Há muitas pessoas qualificadas que podem se juntar a você para ajudar em seus projetos.
+- Se você oferecer boas críticas ou sugestões, você tem o potencial de influenciar o resto de nós a adotar qualquer abordagem que você acha que é mais eficaz.
+- Podemos reunir nossos recursos para conduzir pesquisas que podem ajudar a descobrir como ter mais impacto.
+- Você pode aprender observando como outras pessoas na comunidade pensam ou se comportam.
+- É bom ter amigos que pensam como nós, e eles podem mantê-lo motivado quando as coisas estiverem difíceis.
 
-That said, one can engage in effective altruism without taking any interest in the community. If you do a lot of good without us, that’s great!
+Dito isto, é possível se envolver com o altruísmo eficaz sem ter qualquer interesse na comunidade. Se você já causa muito impacto mesmo sem nós, isso é ótimo!
 
-#### How can I become involved?
+#### Como posso me envolver?
 
-We’re glad you’d like to join us! Here are a few things you can do:
+Estamos felizes que você gostaria de se juntar a nós! Aqui estão algumas coisas que você pode fazer:
 
-- Learn more about what we do through the effective altruisim [handbook](http://effective-altruism.com/ea/hx/effective_altruism_handbook_now_online/) or William MacAskill’s [Doing Good Better](http://www.amazon.com/Doing-Good-Better-Effective-Difference/dp/1592409105).
-- Meet like-minded people on our [forum](http://effective-altruism.com/) or at [our annual conference](http://www.eaglobal.org/).
-- Discover how you can have more [impact through your career](http://www.80000hours.org/).
-- Read this post on [small effective things](http://effective-altruism.com/ea/7k/what_small_things_can_an_ea_do/) you can do.
-- Donate to highly effective charities.
-- [Take a pledge to give to effective charities](https://www.givingwhatwecan.org/).
-- Join or start a local chapter or [EA group](http://effectivealtruismhub.com/groups). Email jonathan [dot] courtney [at] givingwhatwecan [dot] org.
-- Apply to work at an EA-oriented organisation, e.g. [GiveWell](http://www.givewell.org/about/jobs) or [Center for Effective Altruism](https://centreforeffectivealtruism.org/careers/).
+- Saiba mais sobre o que fazemos através do [guia de bolso do altruísmo eficaz](http://effective-altruism.com/ea/hx/effective_altruism_handbook_now_online/) ou [Doing Good Better](http://www.amazon.com/Doing-Good-Better-Effective-Difference/dp/1592409105), de William MacAskill.
+- Conheça pessoas que pensam como você em nosso [fórum](http://effective-altruism.com/) ou em [nossa conferência anual](http://www.eaglobal.org/).
+- Descubra como você pode ter mais [impacto através de sua carreira] (http://www.80000hours.org/).
+- Leia este post sobre [pequenas coisas eficazes] (http://effective-altruism.com/ea/7k/what_small_things_can_an_ea_do/) que você pode fazer.
+- Doe para instituições de caridade altamente eficazes.
+- [Comprometa-se a doar parte do que você ganha para instituições de caridade eficazes] (https://www.givingwhatwecan.org/).
+- Participe ou inicie um capítulo local ou [grupo AE] (http://effectivealtruismhub.com/groups).
+- Candidate-se para trabalhar em uma organização alinhada com o AE, por exemplo [GiveWell](http://www.givewell.org/about/jobs) ou [Center for Effective Altruism](https://centreforeffectivealtruism.org/careers/).
 
 
-Written by a range of contributors.
+Escrito e traduzido por diversos colaboradores.
