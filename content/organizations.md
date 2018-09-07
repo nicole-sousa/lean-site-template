@@ -1,5 +1,5 @@
 ---
-title:"organizacoes"
+title: "organizacoes"
 date: 2018-08-28T15:58:33-08:00
 draft: false
 ---
