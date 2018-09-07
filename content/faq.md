@@ -34,7 +34,7 @@ Como regra geral, os altruístas eficazes estão procurando por causas ou aborda
 
 Há também os palpites das pessoas sobre quais ações específicas são mais eficazes. As crenças variam muito neste tópico e fazem com que a seleção de uma causa seja um campo ativo de pesquisa, mas algumas das opções mais populares atualmente incluem:
 
-- Aumentar os tratamentos de saúde eficazes no mundo em desenvolvimento, como a [distribuição de rede anti-malária](https://www.againstmalaria.com/).
+- Aumentar os tratamentos de saúde eficazes no mundo em desenvolvimento, como a [distribuição de mosqueteiro anti-malária](https://www.againstmalaria.com/).
 - [Dar dinheiro](https://givedirectly.org/) para as pessoas mais pobres do mundo.
 - [Abrir fronteiras](http://openborders.info/) para um número maior de migrantes, especialmente aqueles que fogem da pobreza ou da perseguição.
 - Pesquisar como garantir a segurança de tecnologias que têm o potencial de causar benefícios ou danos enormes, como [inteligência artificial](http://www.fhi.ox.ac.uk/research/research -areas /).
@@ -241,13 +241,14 @@ Dito isto, é possível se envolver com o altruísmo eficaz sem ter qualquer int
 
 Estamos felizes que você gostaria de se juntar a nós! Aqui estão algumas coisas que você pode fazer:
 
+- Participe dos nossos encontros na USP! Veja nosso [facebook](https://www.facebook.com/altruismoeficazusp/) para saber quando serão os próximos eventos.
 - Saiba mais sobre o que fazemos através do [guia de bolso do altruísmo eficaz](http://effective-altruism.com/ea/hx/effective_altruism_handbook_now_online/) ou [Doing Good Better](http://www.amazon.com/Doing-Good-Better-Effective-Difference/dp/1592409105), de William MacAskill.
 - Conheça pessoas que pensam como você em nosso [fórum](http://effective-altruism.com/) ou em [nossa conferência anual](http://www.eaglobal.org/).
 - Descubra como você pode ter mais [impacto através de sua carreira](http://www.80000hours.org/).
 - Leia este post sobre [pequenas coisas eficazes](http://effective-altruism.com/ea/7k/what_small_things_can_an_ea_do/) que você pode fazer.
 - Doe para instituições de caridade altamente eficazes.
 - [Comprometa-se a doar parte do que você ganha para instituições de caridade eficazes](https://www.givingwhatwecan.org/).
-- Participe ou inicie um capítulo local ou [grupo AE](http://effectivealtruismhub.com/groups).
+- Participe ou inicie um [grupo AE](http://effectivealtruismhub.com/groups) local.
 - Candidate-se a trabalhar em uma organização alinhada com o AE, por exemplo [GiveWell](http://www.givewell.org/about/jobs) ou [Center for Effective Altruism](https://centreforeffectivealtruism.org/careers/).
 
 
