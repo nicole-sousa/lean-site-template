@@ -242,7 +242,7 @@ Dito isto, é possível se envolver com o altruísmo eficaz sem ter qualquer int
 Estamos felizes que você gostaria de se juntar a nós! Aqui estão algumas coisas que você pode fazer:
 
 - Participe dos nossos encontros na USP! Veja nosso [facebook](https://www.facebook.com/altruismoeficazusp/) para saber quando serão os próximos eventos.
-- Saiba mais sobre o que fazemos através do [guia de bolso do altruísmo eficaz](http://effective-altruism.com/ea/hx/effective_altruism_handbook_now_online/) ou [Doing Good Better](http://www.amazon.com/Doing-Good-Better-Effective-Difference/dp/1592409105), de William MacAskill.
+- Saiba mais sobre o que fazemos através do [guia de bolso do altruísmo eficaz](http://effective-altruism.com/ea/hx/effective_altruism_handbook_now_online/) ou [Doing Good Better](https://www.amazon.com.br/Doing-Good-Better-Effective-Altruism/dp/1592409660/), de William MacAskill.
 - Conheça pessoas que pensam como você em nosso [fórum](http://effective-altruism.com/) ou em [nossa conferência anual](http://www.eaglobal.org/).
 - Descubra como você pode ter mais [impacto através de sua carreira](http://www.80000hours.org/).
 - Leia este post sobre [pequenas coisas eficazes](http://effective-altruism.com/ea/7k/what_small_things_can_an_ea_do/) que você pode fazer.
