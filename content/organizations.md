@@ -15,8 +15,6 @@ __**[CEA](http://centreforeffectivealtruism.org/)**__: O Centre for Effective Al
 
 __**[Center for Applied Rationality](http://rationality.org/)**__ conduz workshops de 4 dias sobre racionalidade. Eles geralmente dão descontos significativos a altruístas eficazes, e muitas pessoas relatam se beneficiar de seus workshops.
 
-__**[Charity Science Foundation](http://www.charityscience.com/)**__ 
-
 __**[Effective Altruism Ventures](http://www.eaventures.org/)**__ é um fundo de capital de investimento projetado para incubar projetos que criam muito valor social.
 
 __**[FHI](http://www.fhi.ox.ac.uk/research/research-areas/)**__: O Future of Humanity Institute (FHI) é um centro de pesquisa em Oxford que é líder na produção de pesquisas sobre risco existencial. As principais áreas de pesquisa da FHI são o risco catastrófico global, a epistemologia aplicada, o aprimoramento humano e as tecnologias futuras.
