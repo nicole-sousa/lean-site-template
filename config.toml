@@ -30,7 +30,7 @@ DefaultContentLanguage = "pt"
   [Languages.pt.groupinfo]
   ## -- EA GROUP INFO -- ##
   legalOrgName = "Altruísmo Eficaz USP"
-  orgLocations = "São Paulo"
+  orgLocations = "São Paulo - Brasil"
   contactEmail = "altruismoeficazusp@gmail.com"
 
   [Languages.pt.navbar]
@@ -57,9 +57,9 @@ DefaultContentLanguage = "pt"
   topBannerText = "Quem somos?"
   leadText = "Somos um grupo de pessoas que deseja te ajudar a responder a questão: como posso fazer o bem melhor?"
   firstSectionHeader = "Fazendo o bem melhor"
-  secondSectionHeader = "Construindo uma comunidade"
+  secondSectionHeader = "Formando uma comunidade"
   thirdSectionHeader = "Encontrando melhores meios de ajudar"
-  bottomBannerText = "Um orgulhoso membro da rede do Altruísmo Eficaz"
+  bottomBannerText = "Um orgulhoso membro da rede de Altruísmo Eficaz"
 
   [Languages.pt.contactform]
   ## -- CONTACT FORM -- ##
@@ -85,6 +85,6 @@ DefaultContentLanguage = "pt"
   ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
   # If your group does not have URLs for these, just add # before the line
   # to remove the link from the site
-  facebookUrl = ""
-  twitterUrl = ""
-  meetupUrl = ""
+  facebookUrl = "https://www.facebook.com/altruismoeficazusp/"
+  # twitterUrl = ""
+  # meetupUrl = ""
