@@ -1,6 +1,6 @@
 ---
 title:"organizacoes"
-Data: 2018-08-28T15: 58: 33-08: 00
+date: 2018-08-28T15:58:33-08:00
 draft: false
 ---
 
