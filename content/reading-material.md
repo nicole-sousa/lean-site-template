@@ -27,10 +27,10 @@ Peter McIntyre escreve um post resumindo heurísticas de seleção de caridade e
 Como você deve gastar as 80.000 horas de sua vida profissional? 80.000 Hours (de onde eles tiraram esse nome?) criou um **[guia de carreiras incrível](https://80000hours.org/career-guide/)**.
 
 
-Livros de Singer: **[The Life You Can Save](http://www.amazon.com/The-Life-You-Can-Save/dp/0812981561)**, e **[The Most Good You Can Do](http://www.amazon.com/The-Most-Good-You-Can/dp/0300180276)** são boas introduções e mudaram a vida de muitas pessoas.
+Livros de Singer: **[The Life You Can Save](https://www.amazon.com.br/Life-You-Can-Save-Poverty/dp/0812981561/)**, e **[The Most Good You Can Do](https://www.amazon.com.br/Most-Good-You-Can-Effective/dp/0300219865/)** são boas introduções e mudaram a vida de muitas pessoas.
 
 
-O livro de William MacAskill **[Doing Good Better](http://www.amazon.com/Doing-Good-Better-Effective-Difference/dp/1592409105/)**, introduzindo o altruísmo eficaz, foi publicado em agosto de 2015.
+O livro de William MacAskill **[Doing Good Better](https://www.amazon.com.br/Doing-Good-Better-Effective-Altruism/dp/1592409660/)**, introduzindo o altruísmo eficaz, foi publicado em agosto de 2015.
 
 
 Além disso, muitos escritores individuais e outros sites têm um material interessante sobre o altruísmo eficaz - você pode encontrar alguns **[ótimos blogs](https://eahub.org/links#blogs)** no EA Hub.
