@@ -36,7 +36,7 @@ A ética populacional é uma fonte de discordância significativa entre os filó
 
 **Ganhar para doar**: Ganhar para doar refere-se à prática de escolher uma carreira não pelo seu impacto direto, mas pelo seu salário, e depois doar uma parte significativa deste salário para instituições de caridade eficazes. Ganhar para doar às vezes pode ser mais eficaz do que o trabalho direto, permitindo através de suas doações que outros façam mais bem do que você faria diretamente.
 
-**Pledge (GWWC & TLYCS)**: Muitos altruístas eficazes fazem compromissos de doar uma parcela significativa de suas rendas para a caridade. Os membros da Giving What We Can podem se comprometer a doar pelo menos 10% de sua renda para as instituições de caridade que acreditam serem as mais eficazes. A TLYCS também permite fazer um compromisso semelhante. Uma *pledge* mais geral está disponível em http://effectivealtruismhub.com/donations.
+**Pledge (GWWC & TLYCS)**: Muitos altruístas eficazes fazem compromissos de doar uma parcela significativa de suas rendas para a caridade. Os membros da Giving What We Can podem se comprometer a doar pelo menos 10% de sua renda para as instituições de caridade que acreditam serem as mais eficazes. A TLYCS também permite fazer um compromisso semelhante.
 
 **X-Risk**: Um risco existencial é um perigo que é global em escopo e terminal em intensidade. Isto é, ameaça "aniquilar a vida inteligente originada na Terra ou limitar permanentemente e drasticamente seu potencial". Exemplos incluem mudanças climáticas severas, guerra nuclear e inteligência artificial hostil.
 
