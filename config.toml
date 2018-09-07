@@ -29,8 +29,8 @@ DefaultContentLanguage = "pt"
 
   [Languages.pt.groupinfo]
   ## -- EA GROUP INFO -- ##
-  legalOrgName = "Altruímo Eficaz - USP"
-  orgLocations = "Cidade Universitária - Butantã"
+  legalOrgName = "Altruísmo Eficaz USP"
+  orgLocations = "São Paulo"
   contactEmail = "altruismoeficazusp@gmail.com"
 
   [Languages.pt.navbar]
