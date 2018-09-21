@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepages on AE USP</title>
+    <link>https://altruismoeficazusp.org/homepage/</link>
+    <description>Recent content in Homepages on AE USP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    
+	<atom:link href="https://altruismoeficazusp.org/homepage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://altruismoeficazusp.org/homepage/_first_section_text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://altruismoeficazusp.org/homepage/_first_section_text/</guid>
+      <description>Queremos ajuda-lo, através de evidência e razão, a transformar o mundo em um lugar melhor.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://altruismoeficazusp.org/homepage/_second_section_text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://altruismoeficazusp.org/homepage/_second_section_text/</guid>
+      <description>Somos um grupo de estudos dedicado a promover, inspirar e apoiar uns aos outros em prol de metas altruístas.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://altruismoeficazusp.org/homepage/_third_section_text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://altruismoeficazusp.org/homepage/_third_section_text/</guid>
+      <description>Alguns projetos são muitas vezes mais eficazes que outros. Aplicamos lógica e pesquisa para maximizar nosso impacto.</description>
+    </item>
+    
+  </channel>
+</rss>
